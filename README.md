@@ -28,7 +28,7 @@ func main() {
 
 ```
 bot.Name = "octobot"
-bot.IconURL = "http://example.com/ocotbot.png"
+bot.IconURL = "http://example.com/octobot.png"
 ```
 
 ### Sending a message to a specific channel
